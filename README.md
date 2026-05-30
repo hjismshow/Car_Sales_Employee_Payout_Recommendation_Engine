@@ -3,7 +3,6 @@
 > *Turning transactions into intelligence — one sale at a time.*
 
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Data](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/anjaliprajapati307/usa-car-sales-dataset-2018-2024/versions/1)
 
 ---
